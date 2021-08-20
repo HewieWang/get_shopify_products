@@ -1,2 +1,3 @@
-# get_shopify_products
-get_shopify_products to json
+```Go
+go run get_shopify_products.go
+```
